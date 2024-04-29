@@ -1,0 +1,18 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+p {
+    color: rgba(0, 0, 0, 0.8);
+    background-color: beige;
+}
+
+ul,
+ol {
+    background-color: beige;
+}
+
+a {
+    color: white;
+}
